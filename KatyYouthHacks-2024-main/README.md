@@ -4,5 +4,5 @@ RAFA is an AI-powered real-time fitness trainer. It is a simple and elegant GUI 
 ## Getting Started
 1. Clone this repository
 2. Move into the repository with `cd KatyYouthHacks-2024`
-3. Install dependencies by running `pip install -r requirements.txt` 
+3. Install dependencies by running 
 5. Run `python main.py`; use `python3` if you're using the latest version of Python.
